@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# {title}
+# Why Go
 
 Gaurav Agarwal
 
@@ -44,7 +44,7 @@ func main() {
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
+https://github.com/algogrit/presentation-why-go
 
 Slides
-https://template.slides.algogrit.com
+https://why-go.slides.algogrit.com
