@@ -16,6 +16,7 @@ What Open Source tools are built using it?
   * CockroachDB
   * Hyperledger
   * Jaeger
+  * Terraform
   * ...
 
 Which companies are using it?
