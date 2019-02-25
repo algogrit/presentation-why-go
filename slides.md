@@ -165,6 +165,7 @@ class: center, middle
 * UTF-8 by default
 * Comprehensive standard library...
 * and great documentation to go along with it!
+* `Go-fmt`
 
 ---
 
@@ -174,9 +175,9 @@ class: center, middle
 * Uber
 * Go-JEK
 * Grab
-* BBC
-* SoundCloud
-* CloudFlare
+* [BBC](https://www.quora.com/Go-programming-language/Is-Google-Go-ready-for-production-use/answer/Kunal-Anand)
+* [SoundCloud](https://developers.soundcloud.com/blog/go-at-soundcloud)
+* [CloudFlare](https://blog.cloudflare.com/go-at-cloudflare/)
 * Basecamp
 * Heroku
 * YouTube
@@ -273,6 +274,34 @@ class: center, middle
 * Dealing with errors (`return val, err`)
 
 ---
+class: center, middle
+
+# Open Source Software
+
+---
+
+* Docker
+* Kubernetes
+* CockroachDB
+* Hyperledger - Fabric
+* Jaeger
+* Terraform
+* ...
+
+---
+class: center, middle
+
+# Is Go only a systems programming language?
+
+---
+
+* Gomobile
+* Gobots for IoT
+* Go WASM
+* Go for AI/ML (Using Tenserflow and otherwise too)
+* Blockchain
+
+---
 
 # References
 
@@ -280,6 +309,8 @@ class: center, middle
 - [Ask HN: What highly scalable thing have you built with Go](https://news.ycombinator.com/item?id=17440616)
 - [Type of applications being developed in Go?](https://medium.com/@IndianGuru/type-of-applications-being-developed-in-go-8e5505165df5)
 - [The pros and cons of programming in Go](https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go)
+- [For which purpose is the Go programming language used? - Quora](https://www.quora.com/For-which-purpose-is-the-Go-programming-language-used)
+- [Go for AI/ML](https://github.com/esimov/pigo)
 
 ---
 class: center, middle
