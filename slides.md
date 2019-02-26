@@ -227,16 +227,6 @@ class: center, middle
 
 ---
 
-### Hotstar
-
-*At Hotstar, we generate more than 10 billion clickstream events per day, at peak. This data is generated from multiple sources and by multiple teams. We built Bifrost, our internal Data Management Platform, as a single platform that allows users to ingest data of any kind & shape, and allow users to query the streaming and stationary data with ease.*
-
-*the ingestion API and scalable consumers, written in GoLang, and discuss the challenges faced in making it a highly scalable, low-latency, and fault-tolerant producer/consumer.*
-
-.content-credits[https://www.meetup.com/Golang-Bangalore/events/258671999/]
-
----
-
 ### Repustate
 
 *Repustate provides text analytics services to small business, large enterprises and government organizations the world over. As the company has grown, so too has the strain on our servers. We process anywhere from 500 million to 1 billion pieces of text EACH day. Text comes in the form of tweets, news articles, blog comments, customer feedback forms and anything else our customers send our way.*
