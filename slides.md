@@ -36,6 +36,13 @@ Co-organizer of Chennai Go meetup
 Volunteer at Golang India - Remote study group
 
 ---
+class: center, middle
+
+## Show of hands
+
+*Yay's - in Chat*
+
+---
 
 # Go
 
