@@ -300,8 +300,10 @@ class: center, middle
 ---
 class: center, middle
 
-Code
-https://github.com/algogrit/presentation-why-go
+## Workshop Code & Examples
 
-Slides
+https://github.com/Chennai-Golang/101-workshop
+
+## Slides
+
 https://why-go.slides.algogrit.com
