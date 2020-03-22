@@ -244,11 +244,12 @@ class: center, middle
 
 ---
 
-* Package Manager
-  - *community is still deciding - till then `dep`*
 * null pointer exceptions (`nil` in Go) - Billion dollar mistake!
 * No functional programming paradigm (map/reduce/fold)
 * Dealing with errors (`return val, err`)
+* Package Manager
+  * Solved very recently - `go mod`
+  * Old projects tend to use `dep`
 
 ---
 class: center, middle
