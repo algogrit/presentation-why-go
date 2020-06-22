@@ -119,6 +119,12 @@ Concurrency is the composition of independently executing processes, while paral
 ---
 class: center, middle
 
+![Concurrency vs Parallelism](assets/images/concurrency-vs-parallelism.png)
+.image-credits[https://github.com/sathishvj/optimizing-go-programs#m-p-g]
+
+---
+class: center, middle
+
 ## Neither Object-oriented nor functional in nature
 
 ---
