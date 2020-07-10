@@ -308,7 +308,7 @@ class: center, middle
 
 ## Workshop Code & Examples
 
-https://github.com/Chennai-Golang/101-workshop
+https://github.com/AgarwalConsulting/Go-Training
 
 ## Slides
 
