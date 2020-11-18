@@ -36,6 +36,48 @@ Co-organizer of Chennai Go meetup
 Volunteer at Golang India - Remote study group
 
 ---
+
+class: center, middle
+
+*What we wanted*
+
+![In-class Training](assets/images/professional-training-courses.jpg)
+
+---
+
+class: center, middle
+
+*What we got*
+
+![WFH](assets/images/wfh.jpg)
+
+---
+
+## As a instructor
+
+* I promise to
+
+  * make this class as interactive as possible
+
+  * use as many resources as available to keep you engaged
+
+  * ensure everyone's questions are addressed
+
+---
+
+## What I need from you
+
+* Be vocal
+
+  * Let me know if there any audio/video issues ASAP
+
+  * Feel free to interrupt me and ask me questions
+
+* Be punctual
+
+* Give feedback
+
+---
 class: center, middle
 
 ## Show of hands
