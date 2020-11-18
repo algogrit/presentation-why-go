@@ -77,6 +77,8 @@ class: center, middle
 
 * Give feedback
 
+* Work on the exercises
+
 ---
 class: center, middle
 
