@@ -79,6 +79,8 @@ class: center, middle
 
 * Work on the exercises
 
+* Be *on mute* unless you are speaking
+
 ---
 class: center, middle
 
