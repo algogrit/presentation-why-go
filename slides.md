@@ -91,7 +91,7 @@ class: center, middle
 ---
 class: center, middle
 
-### 📚 Content > 🕒 Time
+### 📚 Content ` > ` 🕒 Time
 
 ---
 class: center, middle
