@@ -82,6 +82,17 @@ class: center, middle
 * Be *on mute* unless you are speaking
 
 ---
+
+## Class progression
+
+![Learning Curve](assets/images/learning-curve.jpg)
+
+---
+class: center, middle
+
+📚 Content > 🕒 Time
+
+---
 class: center, middle
 
 ## Show of hands
