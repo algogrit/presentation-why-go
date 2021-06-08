@@ -233,7 +233,6 @@ class: center, middle
 * Uber
 * Go-JEK
 * Grab
-* [BBC](https://www.quora.com/Go-programming-language/Is-Google-Go-ready-for-production-use/answer/Kunal-Anand)
 * [SoundCloud](https://developers.soundcloud.com/blog/go-at-soundcloud)
 * [CloudFlare](https://blog.cloudflare.com/go-at-cloudflare/)
 * Basecamp
@@ -241,6 +240,9 @@ class: center, middle
 * YouTube
 * [SpaceX](https://blog.not-a-kernel-guy.com/2015/10/16/1738/)
 * [Dollar Shave Club](http://highscalability.com/blog/2016/9/13/the-dollar-shave-club-architecture-unilever-bought-for-1-bil.html)
+* Cisco
+* SalesForce
+* Ericsson
 * ...
 * ...
 * ...
