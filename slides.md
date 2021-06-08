@@ -170,6 +170,11 @@ class: center, middle
 ---
 class: center, middle
 
+What's the difference?
+
+---
+class: center, middle
+
 Concurrency is the composition of independently executing processes, while parallelism is the simultaneous execution of (possibly related) computations.
 
 .content-credits[https://blog.golang.org/concurrency-is-not-parallelism]
