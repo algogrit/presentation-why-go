@@ -246,7 +246,7 @@ class: center, middle
 * [SpaceX](https://blog.not-a-kernel-guy.com/2015/10/16/1738/)
 * [Dollar Shave Club](http://highscalability.com/blog/2016/9/13/the-dollar-shave-club-architecture-unilever-bought-for-1-bil.html)
 * Cisco
-* SalesForce
+* Salesforce
 * Ericsson
 * ...
 * ...
