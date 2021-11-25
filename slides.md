@@ -106,9 +106,7 @@ class: center, middle
 
 * simple, concurrent language
 * Born @ Google
-* Sub-millisecond response times!!!
 * Cross-compilation
-* Goroutines & channels
 * Go Toolchain
 * Binaries!
 
@@ -194,9 +192,9 @@ class: center, middle
 
 * No classes *(it does have `structs`)*
 * functions can return functions
-* Lack of generics
+* Lack of **generics** *(almost here! -> beta in 1.18)*
 * No map/reduce/fold etc.
-  - *Though you could implement them yourself*
+  * *Though you could implement them yourself*
 * No inheritance
 
 ---
