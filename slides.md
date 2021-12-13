@@ -105,23 +105,19 @@ class: center, middle
 # Go
 
 * simple, concurrent language
+
 * Born @ Google
+
 * Cross-compilation
+
 * Go Toolchain
+
 * Binaries!
 
 ---
 class: center, middle
 
 # Go's programming style
-
----
-
-* Syntax is close to C
-* Simplicity over complexity
-* Concurrency over parallelism
-* Neither Object-oriented nor functional in nature
-* Others
 
 ---
 class: center, middle
@@ -191,10 +187,15 @@ class: center, middle
 ---
 
 * No classes *(it does have `structs`)*
+
 * functions can return functions
+
 * Lack of **generics** *(almost here! -> beta in 1.18)*
-* No map/reduce/fold etc.
+
+* No collect/reduce/fold etc.
+
   * *Though you could implement them yourself*
+
 * No inheritance
 
 ---
@@ -205,7 +206,12 @@ class: center, middle
 ---
 class: center, middle
 
-Automation and Command-line tools - Go is also a great tool to make complex automation tools for developers. It fast, lightweight and follows unix “Do one thing. And do it well.”. DevOps is beginning to use more and more golang.
+Automation and Command-line tools - Go is a great tool to make complex automation tools for developers. Its fast, lightweight and follows unix “Do one thing. And do it well.”.
+
+---
+class: center, middle
+
+DevOps is beginning to use more and more of golang.
 
 ---
 class: center, middle
@@ -216,12 +222,12 @@ class: center, middle
 
 * Statically typed, type inferred language
 * Pointers (with Memory-safety!)
+* [Garbage collector](https://blog.golang.org/ismmkeynote)
 * `struct` with receiver functions
 * Implicit `interface`s
-* `slices`
-* `channels`
+* `slices` & `maps`
 * `goroutines`
-* [Garbage collector](https://blog.golang.org/ismmkeynote)
+* `channels`
 * Testing and benchmarking
 * UTF-8 by default
 * Comprehensive standard library...
@@ -309,8 +315,11 @@ class: center, middle
 ### *More*
 
 * [Handling 1 Million Requests per Minute with Golang](https://medium.com/smsjunk/handling-1-million-requests-per-minute-with-golang-f70ac505fcaa)
+
 * [How we monitor application performance at GO-JEK](https://blog.gojekengineering.com/how-we-monitor-application-performance-at-go-jek-5500d046da56)
+
 * [Why Go Was the Right Choice for CockroachDB](https://www.cockroachlabs.com/blog/why-go-was-the-right-choice-for-cockroachdb/)
+
 * [Go success stories from around the web](https://github.com/golang/go/wiki/SuccessStories)
 
 ---
@@ -321,11 +330,16 @@ class: center, middle
 ---
 
 * null pointer exceptions (`nil` in Go) - Billion dollar mistake!
-* No functional programming paradigm (map/reduce/fold)
+
+* No functional programming paradigm (collect/reduce/fold)
+
 * Dealing with errors (`return val, err`)
+
 * Package Manager
+
   * Solved very recently - `go mod`
-  * Old projects tend to use `dep`
+
+  * Old projects tend to use `dep`, `glide`, ...
 
 ---
 class: center, middle
@@ -335,11 +349,17 @@ class: center, middle
 ---
 
 * Docker
+
 * Kubernetes
-* CockroachDB
+
 * Hyperledger - Fabric
+
+* CockroachDB
+
 * Jaeger
+
 * Terraform
+
 * ...
 
 ---
@@ -350,21 +370,30 @@ class: center, middle
 ---
 
 * Gomobile
+
 * Gobots for IoT
+
 * Go WASM
+
 * Go for AI/ML (Using Tenserflow and otherwise too)
+
 * Blockchain
 
 ---
 
 # References
 
-- [What is Go good for? - Quora](https://www.quora.com/What-is-golang-good-for)
-- [Ask HN: What highly scalable thing have you built with Go](https://news.ycombinator.com/item?id=17440616)
-- [Type of applications being developed in Go?](https://medium.com/@IndianGuru/type-of-applications-being-developed-in-go-8e5505165df5)
-- [The pros and cons of programming in Go](https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go)
-- [For which purpose is the Go programming language used? - Quora](https://www.quora.com/For-which-purpose-is-the-Go-programming-language-used)
-- [Go for AI/ML](https://github.com/esimov/pigo)
+* [What is Go good for? - Quora](https://www.quora.com/What-is-golang-good-for)
+
+* [Ask HN: What highly scalable thing have you built with Go](https://news.ycombinator.com/item?id=17440616)
+
+* [Type of applications being developed in Go?](https://medium.com/@IndianGuru/type-of-applications-being-developed-in-go-8e5505165df5)
+
+* [The pros and cons of programming in Go](https://willowtreeapps.com/ideas/the-pros-and-cons-of-programming-in-go)
+
+* [For which purpose is the Go programming language used? - Quora](https://www.quora.com/For-which-purpose-is-the-Go-programming-language-used)
+
+* [Go for AI/ML](https://github.com/esimov/pigo)
 
 ---
 class: center, middle
