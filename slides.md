@@ -190,13 +190,13 @@ class: center, middle
 
 * functions can return functions
 
-* Lack of **generics** *(almost here! -> beta in 1.18)*
-
 * No collect/reduce/fold etc.
 
   * *Though you could implement them yourself*
 
 * No inheritance
+
+* ~Lack of **generics** *(introduced in -> 1.18)*~
 
 ---
 class: center, middle
