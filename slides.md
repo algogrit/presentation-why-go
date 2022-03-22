@@ -196,7 +196,7 @@ class: center, middle
 
 * No inheritance
 
-* ~Lack of~ **generics** *(introduced in -> 1.18)*
+* ~~Lack of~~ **generics** *(introduced in -> 1.18)*
 
 ---
 class: center, middle
