@@ -69,7 +69,7 @@ class: center, middle
 
 * Be vocal
 
-  * Let me know if there any audio/video issues ASAP
+  * Let me know if there are any audio/video issues ASAP
 
   * Feel free to interrupt me and ask me questions
 
