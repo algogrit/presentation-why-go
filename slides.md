@@ -375,7 +375,7 @@ class: center, middle
 
 * Go WASM
 
-* Go for AI/ML (Using Tenserflow and otherwise too)
+* Go for AI/ML (Using Tensorflow and otherwise too)
 
 * Blockchain
 
